@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/rating"
+                android:icon="@drawable/ic_rate_review_black_24dp"
+                android:title="Rating" />
+            <item
+                android:id="@+id/more_app"
+                android:icon="@drawable/ic_more_black_24dp"
+                android:title="More Apps" />
+
+            <item
+                android:id="@+id/privacy_app"
+                android:icon="@drawable/ic_web_black_24dp"
+                android:title="Privacy Policy" />
+
+<!--            <item-->
+<!--                android:id="@+id/removeads_menu"-->
+<!--                android:icon="@drawable/remove_ads"-->
+<!--                android:title="Remove Ads" />-->
+
+        </menu>
+    </item>
+
+
+</menu>

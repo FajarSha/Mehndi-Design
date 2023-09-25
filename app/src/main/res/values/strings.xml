@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Henna Mehndi Design</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="nothing_saved">Nothing Saved</string>
+    <string name="nothing_fav">Nothing Favourite</string>
+    <string name="top_trendy">Top Trendy</string>
+    <string name="latest_mehndi">Latest Mehndi</string>
+    <string name="designs">Designs</string>
+    <string name="loading_ad">Loading</string>
+
+
+    <!--  Test  ADs Ids-->
+<!--    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+    &lt;!&ndash;      APP open&ndash;&gt;
+    <string name="open_app_highId">ca-app-pub-3940256099942544/3419835294</string>
+    <string name="open_app_mediumid">ca-app-pub-3940256099942544/3419835294</string>
+    <string name="open_app_lowId">ca-app-pub-3940256099942544/3419835294</string>
+    &lt;!&ndash;    Banner&ndash;&gt;
+    <string name="banner_highId">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_mediumid">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_lowId">ca-app-pub-3940256099942544/6300978111</string>
+    &lt;!&ndash;    interstial&ndash;&gt;
+    <string name="interstial_highId">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstial_mediumid">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstial_lowId">ca-app-pub-3940256099942544/1033173712</string>
+    &lt;!&ndash;    Native &ndash;&gt;
+    <string name="native_highId">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="native_mediumid">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="native_lowId">ca-app-pub-3940256099942544/2247696110</string>
+
+    <string name="collapsable_test_banner">ca-app-pub-3940256099942544/2014213617</string> -->
+
+<!--    Live Ids-->
+    <string name="app_id">ca-app-pub-8021747795126780~2220474894</string>
+    <!--      APP open-->
+    <string name="open_app_highId">ca-app-pub-8021747795126780/9715821530</string>
+    <string name="open_app_mediumid">ca-app-pub-8021747795126780/1198751856</string>
+    <string name="open_app_lowId">ca-app-pub-8021747795126780/5340628102</string>
+    <!--    Banner-->
+    <string name="banner_highId">ca-app-pub-8021747795126780/6866296919</string>
+    <string name="banner_mediumid">ca-app-pub-8021747795126780/5744786933</string>
+    <string name="banner_lowId">ca-app-pub-8021747795126780/9684031945</string>
+    <!--    interstial-->
+    <string name="interstial_highId">ca-app-pub-8021747795126780/4048561888</string>
+    <string name="interstial_mediumid">ca-app-pub-8021747795126780/7987806890</string>
+    <string name="interstial_lowId">ca-app-pub-8021747795126780/1613970233</string>
+    <!--    Native -->
+    <string name="native_highId">ca-app-pub-8021747795126780/6642650222</string>
+    <string name="native_mediumid">ca-app-pub-8021747795126780/8917745183</string>
+    <string name="native_lowId">ca-app-pub-8021747795126780/3341984871</string>
+
+    <string name="collapsable_test_banner">ca-app-pub-8021747795126780/5936358623</string>
+
+
+
+    <string name="in_app_purchase">remove_ads_mehanadi_design</string>
+    <string name="buy_now">Buy Now</string>
+
+</resources>

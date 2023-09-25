@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381767232592",
+    "project_id": "henna-mehndi-design-1e863",
+    "storage_bucket": "henna-mehndi-design-1e863.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381767232592:android:69b55609a3841f4880b555",
+        "android_client_info": {
+          "package_name": "com.hennamehndi.mehndipatterns.bridalmehndidesigns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381767232592-8r4mpok4tbt2b6ogc68tcipp4flv99rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-qPmQo7d_Qa12CJa7wBR3Gjt12zi47XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381767232592-8r4mpok4tbt2b6ogc68tcipp4flv99rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
